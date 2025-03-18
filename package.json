@@ -9,7 +9,7 @@
     "deploy": "vercel deploy"
   },
   "dependencies": {
-    "hono": "^3.0.0"
+    "hono": "^4.7.4"
   },
   "devDependencies": {
     "typescript": "^5.0.0",
